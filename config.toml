@@ -1,4 +1,4 @@
-baseURL = 'https://paimoe.github.io/'
+baseURL = 'https://paimoe.github.io/write/'
 languageCode = 'en-us'
 title = 'go me'
 theme = 'hyde'
