@@ -1,0 +1,13 @@
+baseURL = 'https://paimoe.github.io/'
+languageCode = 'en-us'
+title = 'go me'
+theme = 'hyde'
+
+[Menus]
+ main = [
+	{Name = "Github", URL = "https://github.com/paimoe"},
+	{Name = "rugbydb", URL = "https://db.paimoe.com/rwc.html"}
+ ]
+
+[params]
+	description = "some Data Science, some maths, some rugby, later ML and viz"
